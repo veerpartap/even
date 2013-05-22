@@ -1,5 +1,5 @@
 <?php
-class Model extends AppModel {
-
+class ProductModel extends AppModel {
+	var $var="product";
 }
 ?>
